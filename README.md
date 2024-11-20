@@ -1,4 +1,4 @@
-#Email Spam Detection using Logistic Regression
+# Email Spam Detection using Logistic Regression
 
 Email spam detection is a crucial task in modern communication systems to distinguish between legitimate (ham) and unwanted (spam) messages. This project focuses on building a machine learning model using Logistic Regression to classify emails as spam or ham effectively. The primary objective is to reduce the number of unwanted messages that reach users' inboxes while ensuring legitimate emails are not flagged incorrectly.
 
